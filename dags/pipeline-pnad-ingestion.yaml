@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: "pnad-ingestion"
+spec:
+  containers:
+  - name: python-container
+    image: kramerscs/pnad:1.0.0
+    imagePullPolicy: Always
+    securityContext:
+      allowPrivilegeEscalation: false
+      runAsUser: 0
+    resources:
+      requests:
+        memory: "1Gi"
+        cpu: "500m"
+      limits:
+        memory: "1Gi"
+        cpu: "1000m"
+    command: ["bash", "-c", "python3 -u /src/ingestion_job.py"]
+    envFrom:
+      - secretRef:
+          name: "aws-secret"
