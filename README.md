@@ -32,10 +32,12 @@ data_base, user_name e password
     "MONGO_COLLECTION": "",
     "MONGO_USER": "",
     "MONGO_PASSWORD": ""
-}
+   }
+
    ```
 
 4. No SGBD aplicar uma query, pra checar persistência dos dados
+
 
 ```
 select * from pnad;
