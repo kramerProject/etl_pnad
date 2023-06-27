@@ -2,8 +2,8 @@
 from os import getenv, path
 from datetime import datetime
 from airflow import DAG
-from airflow.providers.cncf.kubernetes.operators.spark_kubernetes import SparkKubernetesOperator
-from airflow.providers.cncf.kubernetes.sensors.spark_kubernetes import SparkKubernetesSensor
+# from airflow.providers.cncf.kubernetes.operators.spark_kubernetes import SparkKubernetesOperator
+# from airflow.providers.cncf.kubernetes.sensors.spark_kubernetes import SparkKubernetesSensor
 from airflow.providers.cncf.kubernetes.operators.kubernetes_pod import KubernetesPodOperator
 
 # [START env_variables]
