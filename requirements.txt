@@ -1,0 +1,17 @@
+boto3
+botocore
+dnspython
+jmespath
+mysql-connector-python
+numpy
+pandas
+protobuf
+pymongo
+python-dateutil
+python-dotenv
+pytz
+s3transfer
+six
+tzdata
+urllib3
+psycopg2-binary

@@ -1,0 +1,137 @@
+[
+    {
+        "cod_uf": "11",
+        "estado": "Rond\u00f4nia",
+        "uf": "RO"
+    },
+    {
+        "cod_uf": "12",
+        "estado": "Acre",
+        "uf": "AC"
+    },
+    {
+        "cod_uf": "13",
+        "estado": "Amazonas",
+        "uf": "AM"
+    },
+    {
+        "cod_uf": "14",
+        "estado": "Roraima",
+        "uf": "RR"
+    },
+    {
+        "cod_uf": "15",
+        "estado": "Par\u00e1",
+        "uf": "PA"
+    },
+    {
+        "cod_uf": "16",
+        "estado": "Amap\u00e1",
+        "uf": "AP"
+    },
+    {
+        "cod_uf": "17",
+        "estado": "Tocantins",
+        "uf": "TO"
+    },
+    {
+        "cod_uf": "21",
+        "estado": "Maranh\u00e3o",
+        "uf": "MA"
+    },
+    {
+        "cod_uf": "22",
+        "estado": "Piau\u00ed",
+        "uf": "PI"
+    },
+    {
+        "cod_uf": "23",
+        "estado": "Cear\u00e1",
+        "uf": "CE"
+    },
+    {
+        "cod_uf": "24",
+        "estado": "Rio Grande do Norte",
+        "uf": "RN"
+    },
+    {
+        "cod_uf": "25",
+        "estado": "Para\u00edba",
+        "uf": "PB"
+    },
+    {
+        "cod_uf": "26",
+        "estado": "Pernambuco",
+        "uf": "PE"
+    },
+    {
+        "cod_uf": "27",
+        "estado": "Alagoas",
+        "uf": "AL"
+    },
+    {
+        "cod_uf": "28",
+        "estado": "Sergipe",
+        "uf": "SE"
+    },
+    {
+        "cod_uf": "29",
+        "estado": "Bahia",
+        "uf": "BA"
+    },
+    {
+        "cod_uf": "31",
+        "estado": "Minas Gerais",
+        "uf": "MG"
+    },
+    {
+        "cod_uf": "32",
+        "estado": "Esp\u00edrito Santo",
+        "uf": "ES"
+    },
+    {
+        "cod_uf": "33",
+        "estado": "Rio de Janeiro",
+        "uf": "RJ"
+    },
+    {
+        "cod_uf": "35",
+        "estado": "S\u00e3o Paulo",
+        "uf": "SP"
+    },
+    {
+        "cod_uf": "41",
+        "estado": "Paran\u00e1",
+        "uf": "PR"
+    },
+    {
+        "cod_uf": "42",
+        "estado": "Santa Catarina",
+        "uf": "SC"
+    },
+    {
+        "cod_uf": "43",
+        "estado": "Rio Grande do Sul",
+        "uf": "RS"
+    },
+    {
+        "cod_uf": "50",
+        "estado": "Mato Grosso do Sul",
+        "uf": "MS"
+    },
+    {
+        "cod_uf": "51",
+        "estado": "Mato Grosso",
+        "uf": "MT"
+    },
+    {
+        "cod_uf": "52",
+        "estado": "Goi\u00e1s",
+        "uf": "GO"
+    },
+    {
+        "cod_uf": "53",
+        "estado": "Distrito Federal",
+        "uf": "DF"
+    }
+]
